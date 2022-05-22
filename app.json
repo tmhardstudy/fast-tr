@@ -1,6 +1,6 @@
 {
     "name": "fast-tr",
-    "description": "Deploy Trojan-ws-tls on Heroku.",
+    "description": "fast-tr.",
     "keywords": ["Trojan-ws-tls"],
     "env": {
         "TRPWD": {
@@ -8,7 +8,7 @@
             "value": "X6LukWWfMuV9ejYsG0XWs5kVA1fF8v"
         }
     },
-    "website": "https://github.com/HXHGTS/trojan-ws-tls-heroku",
-    "repository": "https://github.com/HXHGTS/trojan-ws-tls-heroku",
+    "website": "https://github.com/tmhardstudy/fast-tr",
+    "repository": "https://github.com/tmhardstudy/fast-tr",
     "stack": "container"
 }
