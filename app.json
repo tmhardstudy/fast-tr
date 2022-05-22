@@ -1,5 +1,5 @@
 {
-    "name": "Trojan-ws-tls",
+    "name": "fast-tr",
     "description": "Deploy Trojan-ws-tls on Heroku.",
     "keywords": ["Trojan-ws-tls"],
     "env": {
