@@ -8,7 +8,7 @@
 
 ## 一键部署到Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/HXHGTS/trojan-ws-tls-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/tmhardstudy/fast-tr)
 
 ## ENV 设定
 
